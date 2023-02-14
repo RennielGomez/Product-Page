@@ -26,3 +26,9 @@
 body{
   font-family: 'Kumbh Sans', sans-serif;
 }
+
+.img-fluid{
+  width: 100%;
+  margin: 0 8px 0;
+  border-radius: 16px;
+}
